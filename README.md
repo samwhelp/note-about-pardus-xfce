@@ -34,10 +34,11 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Xfce 探索筆記](https://samwhelp.github.io/note-about-xfce/) | [GitHub](https://github.com/samwhelp/note-about-xfce) |
-| [Archlinux Xfce 探索筆記](https://samwhelp.github.io/note-about-archlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-xfce) |
 | [Debian Xfce 探索筆記](https://samwhelp.github.io/note-about-debian-xfce/) | [GitHub](https://github.com/samwhelp/note-about-debian-xfce) |
 | [Ubuntu Xfce 探索筆記](https://samwhelp.github.io/note-about-ubuntu-xfce/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-xfce) |
 | [Fedora Xfce 探索筆記](https://samwhelp.github.io/note-about-fedora-xfce/) | [GitHub](https://github.com/samwhelp/note-about-fedora-xfce) |
+| [Archlinux Xfce 探索筆記](https://samwhelp.github.io/note-about-archlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-xfce) |
+| [Manjaro Xfce 探索筆記](https://samwhelp.github.io/note-about-manjaro-xfce/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-xfce) |
 
 
 
